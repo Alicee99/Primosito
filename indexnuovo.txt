@@ -1,3 +1,4 @@
+<a href="https://www.google.com">Fai una ricerca clicca qui</a>
 <HTML>
 <HEAD>
 <TITLE>Titolo della pagina</title>
@@ -5,6 +6,5 @@
 <body>
 <H1>Benvenuti nella mia pagina web</h1>
 <p>Questo è un paragrafo di testo. </p>
-<a href="https://www.google.com">Fai una ricerca clicca qui</a>
 </body>
 </html>
